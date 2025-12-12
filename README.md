@@ -1,4 +1,4 @@
-# ESP32-Servo-Light-Switch
+# ESP32 Light Switch
 Everyday, I'm late to school because I end up falling back asleep. I find it harder to fall back asleep with the lights on, so I designed a automatic light switch with a servo and ESP32
 
 ## Bill of Materials
